@@ -1,0 +1,11 @@
+{
+  "routine": "pairing_guide",
+  "routine_name": "What To Pair With This Wine",
+  "topic": "Domaine des Malandes",
+  "slide_count": 6,
+  "assets_used": [
+    "/Users/dennisusatov/claude code/manuels weinauslese ads/assets/scraped/manuelsweinauslese/products/domaine-des-malandes/Chablis%20non%20Vintage.jpg"
+  ],
+  "generated_at": "2026-08-06T01:58:49.738282+00:00",
+  "rights_check": "all assets pulled from license_status in owned/permission_granted (see assets/manifest.json)"
+}

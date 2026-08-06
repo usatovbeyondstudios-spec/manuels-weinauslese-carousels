@@ -1,0 +1,12 @@
+{
+  "routine": "winzer_spotlight",
+  "routine_name": "Winzer Spotlight (Meet the Winemaker)",
+  "topic": "Domaine des Malandes",
+  "slide_count": 6,
+  "assets_used": [
+    "/Users/dennisusatov/claude code/manuels weinauslese ads/assets/scraped/manuelsweinauslese/hero/manuel_karte.jpg",
+    "/Users/dennisusatov/claude code/manuels weinauslese ads/assets/scraped/manuelsweinauslese/products/domaine-des-malandes/Chablis%20non%20Vintage.jpg"
+  ],
+  "generated_at": "2026-08-06T01:58:48.177151+00:00",
+  "rights_check": "all assets pulled from license_status in owned/permission_granted (see assets/manifest.json)"
+}
